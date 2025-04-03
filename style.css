@@ -4,12 +4,13 @@
 }
 
 .principal{
-	background: black;
+
 	padding: 30px;
 }
 
 .titulo-principal {
 	padding-left: 20px;
 	text-align: center;
-	color: rgb(111, 29, 29);
+	color: #ccc;
+	background: black;
 }
