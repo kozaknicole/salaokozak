@@ -9,8 +9,10 @@
 
 .titulo-principal {
 	padding: 50px;
+	margin: 0px;
 	text-align: center;
 	color: #ccc;
 	background: black;
 	text-transform: uppercase;
+
 }
