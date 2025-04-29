@@ -1,4 +1,4 @@
-body{
+body {
 	padding: 0px;
 	margin: 0px;
 	font-size: 18px;
@@ -7,11 +7,11 @@ body{
 }
 
 #banner {
-	width:50%;
+	width: 50%;
 	margin: 10px;
 }
 
-.principal{
+.principal {
 	padding: 30px;
 }
 
@@ -24,7 +24,10 @@ body{
 	color: rgb(223, 202, 170);
 }
 
-.img-beneficios{
+.img-beneficios {
 	width: 35%;
 }
 
+.img-cabecalho{
+	width: 30px;
+}
