@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     line-height: 1.5;
+    font-family: sans-serif;
 }
 
 header {
@@ -26,3 +27,7 @@ nav li {
     margin: 0 0 0 15px;
 }
 
+nav li a{
+    font-size: 18px;
+
+}
