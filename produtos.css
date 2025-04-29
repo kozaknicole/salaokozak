@@ -10,6 +10,10 @@ header {
     padding: 20px 0;
 }
 
+header img{
+	width: 15%;
+}
+
 .caixa {
     position: relative;
     width: 940px;
